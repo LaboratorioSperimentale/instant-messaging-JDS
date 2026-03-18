@@ -1,0 +1,43 @@
+{
+	"participants": ["Franci", "Francesco"],
+	"medium": "LINE",
+
+	"interactions": [
+		{
+			"date": "2026-03-03",
+			"time": "11:37",
+			"messages": [
+				{
+					"id": 0,
+					"minute": 0,
+					"user": "Francesco",
+					"text": "やっほ〜\n追加してくれてありがとう(Thanks)"
+				},
+				{
+					"id": 1,
+					"minute": 2,
+					"user": "Franci",
+					"text": "こんにちはぁ〜"
+				}
+			]
+		},
+		{
+			"date": "2026-03-05",
+			"time": "17:35",
+			"messages": [
+				{
+					"id": 0,
+					"minute": 0,
+					"user": "Francesco",
+					"text": "[NONE]"
+				},
+				{
+					"id": 1,
+					"minute": 2,
+					"user": "Franci",
+					"text": "[NONE]"
+				}
+			]
+		}
+	]
+}
