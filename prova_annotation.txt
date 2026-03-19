@@ -1,0 +1,306 @@
+やっほ〜 追加してくれてありがとう(Thanks)
+やっ ADV advmod
+ほ〜 PROPN compound
+追加 VERB advcl
+し AUX aux
+て SCONJ mark
+くれ VERB fixed
+て SCONJ mark
+ありがとう ADJ ROOT
+( PUNCT punct
+Thanks NOUN compound
+) PUNCT punct
+こんにちはぁ〜
+こんにちはぁ NOUN ROOT
+〜 SYM dep
+最近どう？ 忙しい？
+最近 ADV advmod
+どう ADV ROOT
+？ PUNCT punct
+忙しい ADJ ROOT
+？ PUNCT punct
+日本語全部忘れちゃったけど、チャットを頑張る　ww
+日本 PROPN compound
+語 NOUN obl
+全部 ADV advmod
+忘れ VERB advcl
+ちゃっ AUX aux
+た AUX aux
+けど SCONJ mark
+、 PUNCT punct
+チャット NOUN obj
+を ADP case
+頑張る VERB acl
+　 SPACE dep
+ww NOUN ROOT
+大変忙しかったよ
+大変 ADV advmod
+忙しかっ ADJ ROOT
+た AUX aux
+よ PART mark
+フランチェスコはどう？
+フランチェスコ PROPN nsubj
+は ADP case
+どう ADV ROOT
+？ PUNCT punct
+うん、お互いに頑張ろうね いい練習になるからｗ
+うん SCONJ obl
+、 PUNCT punct
+お NOUN compound
+互い NOUN obl
+に ADP case
+頑張ろう VERB advcl
+ね PART mark
+いい ADJ aux
+練習 NOUN obl
+に ADP case
+なる VERB ROOT
+から SCONJ mark
+ｗ PUNCT punct
+フラと呼んでね フランチェスコって長いし💦
+フラ NOUN obl
+と ADP case
+呼ん VERB advcl
+で SCONJ mark
+ね PART mark
+フランチェスコ PROPN obl
+って ADP case
+長い ADJ ROOT
+し SCONJ mark
+💦 PUNCT punct
+僕も結構忙しいよ
+僕 PRON nsubj
+も ADP case
+結構 ADV advmod
+忙しい ADJ ROOT
+よ PART mark
+卒業スピーチの準備しないと
+卒業 NOUN compound
+スピーチ NOUN nmod
+の ADP case
+準備 VERB ROOT
+し AUX aux
+ない AUX aux
+と ADP case
+LINEのチャットはちょっと懐かしいね 留学の時はもう3年ぶりだよ😭
+LINE NOUN nmod
+の ADP case
+チャット NOUN nsubj
+は ADP case
+ちょっと ADV advmod
+懐かしい ADJ acl
+ね PART mark
+留学 NOUN nmod
+の ADP case
+時 NOUN obl
+は ADP case
+もう ADV advmod
+3 NUM compound
+年 NOUN compound
+ぶり NOUN ROOT
+だ AUX cop
+よ PART mark
+😭 PUNCT punct
+時間ってあっという間だね
+時間 NOUN obl
+って ADP case
+あっ INTJ case
+と ADP case
+いう VERB acl
+間 NOUN ROOT
+だ AUX cop
+ね PART mark
+フランチは先輩だから、卒業スピーチをどのように準備すればいいか教えてくれない？
+フランチ PROPN nsubj
+は ADP case
+先輩 NOUN advcl
+だ AUX cop
+から SCONJ mark
+、 PUNCT punct
+卒業 NOUN compound
+スピーチ NOUN obj
+を ADP case
+どの DET det
+よう NOUN advcl
+に AUX cop
+準備 VERB advcl
+すれ AUX aux
+ば SCONJ mark
+いい AUX fixed
+か PART mark
+教え VERB ROOT
+て SCONJ mark
+くれ VERB fixed
+ない AUX aux
+？ PUNCT punct
+卒業スピーチ、ほんとに大変ですね😭だけど、フランなら大丈夫よ🙆
+卒業 NOUN compound
+スピーチ NOUN obl
+、 PUNCT punct
+ほんと ADJ obl
+に ADP aux
+大変 ADJ advcl
+です AUX aux
+ね PART mark
+😭 AUX dep
+だ AUX aux
+けど SCONJ mark
+、 PUNCT punct
+フラン PROPN advcl
+なら AUX cop
+大丈夫 ADJ ROOT
+よ PART mark
+🙆 PUNCT punct
+先輩だけどスピーチは無理　草 
+先輩 NOUN advcl
+だ AUX cop
+けど SCONJ mark
+スピーチ NOUN nsubj
+は ADP case
+無理 ADJ amod
+　 SPACE dep
+草 PUNCT compound
+私はまずスライドを準備した
+私 PRON nsubj
+は ADP case
+まず ADV advmod
+スライド NOUN obj
+を ADP case
+準備 VERB ROOT
+し AUX aux
+た AUX aux
+その後スライドを見ながら毎日卒業スピーチの練習した
+その DET det
+後 NOUN obl
+スライド NOUN obj
+を ADP case
+見 VERB advcl
+ながら SCONJ mark
+毎日 ADV advmod
+卒業 NOUN compound
+スピーチ NOUN nmod
+の ADP case
+練習 VERB ROOT
+し AUX aux
+た PUNCT aux
+なるほどね 何日くらい練習したの？
+なるほど PART advcl
+ね PART mark
+何 NUM nummod
+日 NOUN obl
+くらい ADP case
+練習 VERB ROOT
+し AUX aux
+た AUX aux
+の SCONJ mark
+？ PUNCT punct
+ときどき、スピーチをしながらVtuberのアバターも使ったよ　www
+ときどき ADV advmod
+、 PUNCT punct
+スピーチ NOUN obj
+を ADP case
+し VERB advcl
+ながら SCONJ mark
+Vtuber NOUN nmod
+の ADP case
+アバター NOUN nsubj
+も ADP case
+使っ VERB acl
+た AUX aux
+よ PART mark
+　 SPACE dep
+www NOUN ROOT
+2週間ぐらいだったと思う
+2 NUM nummod
+週間 NOUN ccomp
+ぐらい ADP case
+だっ AUX cop
+た AUX aux
+と ADP case
+思う VERB ROOT
+そうなの？長かったね😭😩 それじゃ、僕も早く始めなきゃ
+そう ADV ROOT
+な AUX aux
+の SCONJ mark
+？ PUNCT punct
+長かっ ADJ advcl
+た AUX aux
+ね PART mark
+😭😩 PROPN dep
+それ PRON obl
+じゃ ADP fixed
+、 PUNCT punct
+僕 PRON nsubj
+も ADP case
+早く ADJ advcl
+始め VERB ROOT
+なきゃ AUX aux
+2週間スピーチの練習はちょっとつまらなくなったから
+2 NUM compound
+週間 NOUN compound
+スピーチ NOUN nmod
+の ADP case
+練習 NOUN nsubj
+は ADP case
+ちょっと ADV advmod
+つまら VERB advcl
+なく AUX aux
+なっ VERB ROOT
+た AUX aux
+から PART mark
+支援してるよ
+支援 VERB ROOT
+し AUX aux
+てる AUX aux
+よ PART mark
+[Sticker]
+[ PUNCT punct
+Sticker NOUN ROOT
+] PUNCT punct
+(Cony hope)
+( PUNCT punct
+Cony NOUN compound
+hope NOUN ROOT
+) PUNCT punct
+[Messaggio Vocale]
+[ PUNCT punct
+Messaggio NOUN compound
+Vocale NOUN ROOT
+] PUNCT punct
+[Foto]
+[ PUNCT punct
+Foto NOUN ROOT
+] PUNCT punct
+[Video]
+[ PUNCT punct
+Video NOUN ROOT
+] PUNCT punct
+[Video]
+[ PUNCT punct
+Video NOUN ROOT
+] PUNCT punct
+卒業おめでとう㊗️🎓
+卒業 NOUN compound
+おめでとう NOUN ROOT
+㊗ NOUN dep
+️ NOUN dep
+🎓 PUNCT punct
+(ごめん、調査のためのメッセージだった)
+( PUNCT punct
+ごめん NOUN nmod
+、 PUNCT punct
+調査 NOUN nmod
+の ADP case
+ため NOUN nmod
+の ADP case
+メッセージ NOUN ROOT
+だっ AUX cop
+た AUX aux
+) PUNCT punct
+おはよう こんにちは こんばんは  ああああ 
+おはよう VERB ROOT
+こんにちは NOUN case
+こんばんは NOUN nsubj
+  SPACE dep
+ああ SYM dep
+ああ PUNCT punct

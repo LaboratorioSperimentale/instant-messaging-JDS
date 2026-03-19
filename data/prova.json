@@ -1,0 +1,219 @@
+{
+    "medium": "LINE",
+    "participants": [
+        "Francesco",
+        "Franci"
+    ],
+    "interactions": [
+        {
+            "date": "03/03/2026",
+            "time": "11:37",
+            "messages": [
+                {
+                    "offset": "00:00",
+                    "user": "Francesco",
+                    "text": "やっほ〜 追加してくれてありがとう(Thanks)",
+                    "id": 0
+                },
+                {
+                    "offset": "00:02",
+                    "user": "Franci",
+                    "text": "こんにちはぁ〜",
+                    "id": 1
+                },
+                {
+                    "offset": "00:03",
+                    "user": "Francesco",
+                    "text": "最近どう？ 忙しい？",
+                    "id": 2
+                },
+                {
+                    "offset": "00:03",
+                    "user": "Franci",
+                    "text": "日本語全部忘れちゃったけど、チャットを頑張る　ww",
+                    "id": 3
+                },
+                {
+                    "offset": "00:04",
+                    "user": "Franci",
+                    "text": "大変忙しかったよ",
+                    "id": 4
+                },
+                {
+                    "offset": "00:04",
+                    "user": "Franci",
+                    "text": "フランチェスコはどう？",
+                    "id": 5
+                },
+                {
+                    "offset": "00:04",
+                    "user": "Francesco",
+                    "text": "うん、お互いに頑張ろうね いい練習になるからｗ",
+                    "id": 6
+                },
+                {
+                    "offset": "00:05",
+                    "user": "Francesco",
+                    "text": "フラと呼んでね フランチェスコって長いし💦",
+                    "id": 7
+                },
+                {
+                    "offset": "00:05",
+                    "user": "Francesco",
+                    "text": "僕も結構忙しいよ",
+                    "id": 8
+                },
+                {
+                    "offset": "00:06",
+                    "user": "Francesco",
+                    "text": "卒業スピーチの準備しないと",
+                    "id": 9
+                },
+                {
+                    "offset": "00:06",
+                    "user": "Franci",
+                    "text": "LINEのチャットはちょっと懐かしいね 留学の時はもう3年ぶりだよ😭",
+                    "id": 10
+                },
+                {
+                    "offset": "00:06",
+                    "user": "Francesco",
+                    "text": "時間ってあっという間だね",
+                    "id": 11
+                },
+                {
+                    "offset": "00:07",
+                    "user": "Francesco",
+                    "text": "フランチは先輩だから、卒業スピーチをどのように準備すればいいか教えてくれない？",
+                    "id": 12
+                },
+                {
+                    "offset": "00:08",
+                    "user": "Franci",
+                    "text": "卒業スピーチ、ほんとに大変ですね😭だけど、フランなら大丈夫よ🙆",
+                    "id": 13
+                },
+                {
+                    "offset": "00:10",
+                    "user": "Franci",
+                    "text": "先輩だけどスピーチは無理　草 ",
+                    "id": 14
+                },
+                {
+                    "offset": "00:11",
+                    "user": "Franci",
+                    "text": "私はまずスライドを準備した",
+                    "id": 15
+                },
+                {
+                    "offset": "00:11",
+                    "user": "Franci",
+                    "text": "その後スライドを見ながら毎日卒業スピーチの練習した",
+                    "id": 16
+                },
+                {
+                    "offset": "00:12",
+                    "user": "Francesco",
+                    "text": "なるほどね 何日くらい練習したの？",
+                    "id": 17
+                },
+                {
+                    "offset": "00:13",
+                    "user": "Franci",
+                    "text": "ときどき、スピーチをしながらVtuberのアバターも使ったよ　www",
+                    "id": 18
+                },
+                {
+                    "offset": "00:13",
+                    "user": "Franci",
+                    "text": "2週間ぐらいだったと思う",
+                    "id": 19
+                },
+                {
+                    "offset": "00:14",
+                    "user": "Francesco",
+                    "text": "そうなの？長かったね😭😩 それじゃ、僕も早く始めなきゃ",
+                    "id": 20
+                },
+                {
+                    "offset": "00:15",
+                    "user": "Franci",
+                    "text": "2週間スピーチの練習はちょっとつまらなくなったから",
+                    "id": 21
+                },
+                {
+                    "offset": "00:15",
+                    "user": "Franci",
+                    "text": "支援してるよ",
+                    "id": 22
+                },
+                {
+                    "offset": "00:16",
+                    "user": "Franci",
+                    "text": "[Sticker]",
+                    "id": 23
+                },
+                {
+                    "offset": "00:17",
+                    "user": "Francesco",
+                    "text": "(Cony hope)",
+                    "id": 24
+                }
+            ]
+        },
+        {
+            "date": "05/03/2026",
+            "time": "17:35",
+            "messages": [
+                {
+                    "offset": "00:00",
+                    "user": "Franci",
+                    "text": "[Messaggio Vocale]",
+                    "id": 25
+                },
+                {
+                    "offset": "00:29",
+                    "user": "Franci",
+                    "text": "[Foto]",
+                    "id": 26
+                },
+                {
+                    "offset": "00:31",
+                    "user": "Franci",
+                    "text": "[Video]",
+                    "id": 27
+                },
+                {
+                    "offset": "00:33",
+                    "user": "Franci",
+                    "text": "[Video]",
+                    "id": 28
+                }
+            ]
+        },
+        {
+            "date": "18/03/2026",
+            "time": "14:44",
+            "messages": [
+                {
+                    "offset": "00:00",
+                    "user": "Franci",
+                    "text": "卒業おめでとう㊗️🎓",
+                    "id": 29
+                },
+                {
+                    "offset": "00:01",
+                    "user": "Franci",
+                    "text": "(ごめん、調査のためのメッセージだった)",
+                    "id": 30
+                },
+                {
+                    "offset": "01:17",
+                    "user": "Franci",
+                    "text": "おはよう こんにちは こんばんは  ああああ ",
+                    "id": 31
+                }
+            ]
+        }
+    ]
+}
