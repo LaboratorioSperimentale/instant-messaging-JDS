@@ -1,5 +1,5 @@
 import sys
-import re
+import regex as re
 import json
 from datetime import datetime
 
@@ -18,7 +18,7 @@ for line in file_handler:
 		## NUOVA CONVERSAZIONE
 		# IPOTESI: non ci sono righe vuote nei messaggi
 		if len(new_conversation) > 0:
-			all_conversations.append(new_conversation)	
+			all_conversations.append(new_conversation)
 		new_conversation = []
 
 	else:
@@ -26,7 +26,7 @@ for line in file_handler:
 
 # ULTIMA CONVERSAZIONE CHE POTREBBE NON FINIRE CON RIGA VUOTA
 if len(new_conversation) > 0:
-	all_conversations.append(new_conversation)	
+	all_conversations.append(new_conversation)
 
 participants = set()
 
@@ -38,7 +38,7 @@ data = {
 
 msg_id = 0
 
-for conversation in all_conversations:	
+for conversation in all_conversations:
 	# msg_id = 0 # SE VUOI INIZIALIZZARE PER OGNI CONVERSAZIONE
 	interaction_data = {
 		"date": "",
@@ -58,7 +58,7 @@ for conversation in all_conversations:
 
 	first_time = 0
 	for line in conv_data:
-	
+
 		# NUOVO MESSAGGIO
 		if re.match(r"^\d\d:\d\d\t.*", line):
 			if len(new_message["text"]) > 0:
@@ -70,7 +70,7 @@ for conversation in all_conversations:
 				new_message["id"] = msg_id
 				msg_id += 1
 				interaction_data["messages"].append(new_message)
-	
+
 			split_line = line.strip().split("\t")
 			time = split_line[0]
 			parsed_time = datetime.strptime(time, "%H:%M")
