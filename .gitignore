@@ -209,3 +209,4 @@ __marimo__/
 
 .vscode/
 data/*.txt
+.DS_Store
