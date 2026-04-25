@@ -45,7 +45,8 @@ for conversation in all_conversations:
 		"time": "",
 		"messages": []
 	}
-	date = conversation[0].split(" ")[1].strip()
+	# LA RIGA 49 COL FORMATO NUOBO Dà PROBLEMI
+	date = conversation[0].split(" ")[1].strip()  
 	interaction_data["date"] = date
 
 	conv_data = conversation[1:]
