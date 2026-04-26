@@ -10,6 +10,7 @@ file_handler = open(file_name, mode = "r", encoding = "UTF-8")
 file_handler.readline()
 file_handler.readline()
 
+
 all_conversations = []
 new_conversation = []
 
@@ -45,8 +46,9 @@ for conversation in all_conversations:
 		"time": "",
 		"messages": []
 	}
-	# LA RIGA 49 COL FORMATO NUOBO Dà PROBLEMI
-	date = conversation[0].split(" ")[1].strip()  
+	# LA RIGA 49 COL FORMATO NUOVO Dà PROBLEMI
+	date = conversation[0].split()[1].strip()  
+	
 	interaction_data["date"] = date
 
 	conv_data = conversation[1:]

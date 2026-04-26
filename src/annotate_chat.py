@@ -11,7 +11,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 #                 "udpipe",
 # 				include_headers=True)
 
-nlp = spacy.load("ja_core_news_sm")
+nlp = spacy.load("ja_core_news_trf")
 
 file_input = pathlib.Path(sys.argv[1])
 ## AGGIUNTO PERCHé data = json.load(sys.argv[1]) NON FUNZIONAVA
@@ -28,7 +28,20 @@ with open("prova_annotation.conllu", "w", encoding="utf-8") as out:
 		for message in conv["messages"]:
 
 			## TODO: qui ci vuole una funzione che decide se quel messaggio è da parsare o meno.
-			## Es. "[Messaggio Vocale]" non è da parsare, "[Sticker]" nemmeno...
+			## Elementi da non parsare: [スタンプ] [写真] [動画] [ボイスメッセージ]
+
+			tokens_to_skip = ["[スタンプ]", 
+			"[写真]", 
+			"[動画]", 
+			"[ボイスメッセージ]", 
+			"[Sticker]", 
+			"[Messaggio Vocale]", 
+			"[Foto]", 
+			"[Video]"]
+
+			if message["text"] in tokens_to_skip:
+				continue
+
 			## TODO: gestire spazi speciali
 
 			doc = nlp(message["text"])
