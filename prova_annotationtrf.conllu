@@ -1,0 +1,348 @@
+# sent_id = prova.03.03.2026_0_0
+# text = やっほ〜 追加してくれてありがとう(Thanks)
+1	やっ	やっ	ADV	感動詞-一般	_	3	advmod	_	Reading=ヤッ
+2	ほ〜	ほ〜	PROPN	感動詞-一般	_	3	compound	_	Reading=ホウ
+3	追加	追加	VERB	名詞-普通名詞-サ変可能	_	8	advcl	_	Reading=ツイカ
+4	し	する	AUX	動詞-非自立可能	_	3	aux	_	Inflection=サ行変格;連用形-一般|Reading=シ
+5	て	て	SCONJ	助詞-接続助詞	_	3	mark	_	Reading=テ
+6	くれ	くれる	VERB	動詞-非自立可能	_	5	fixed	_	Inflection=下一段-ラ行;連用形-一般|Reading=クレ
+7	て	て	SCONJ	助詞-接続助詞	_	3	mark	_	Reading=テ
+8	ありがとう	ありがとう	ADJ	感動詞-一般	_	0	root	_	Reading=アリガトウ
+9	(	(	PUNCT	補助記号-括弧開	_	8	punct	_	Reading=キゴウ
+10	Thanks	thanks	NOUN	名詞-普通名詞-一般	_	8	compound	_	Reading=サンクス
+11	)	)	PUNCT	補助記号-括弧閉	_	8	punct	_	Reading=キゴウ
+
+# sent_id = prova.03.03.2026_1_0
+# text = こんにちはぁ〜
+1	こんにちはぁ	こんにちはぁ	NOUN	感動詞-一般	_	0	root	_	Reading=コンニチハァ
+2	〜	〜	SYM	補助記号-一般	_	1	dep	_	Reading=キゴウ
+
+# sent_id = prova.03.03.2026_2_0
+# text = 最近どう？
+1	最近	最近	ADV	名詞-普通名詞-副詞可能	_	2	advmod	_	Reading=サイキン
+2	どう	どう	ADV	副詞	_	0	root	_	Reading=ドウ
+3	？	?	PUNCT	補助記号-句点	_	2	punct	_	Reading=?
+
+# sent_id = prova.03.03.2026_2_1
+# text = 忙しい？
+4	忙しい	忙しい	ADJ	形容詞-一般	_	0	root	_	Inflection=形容詞;終止形-一般|Reading=イソガシイ
+5	？	?	PUNCT	補助記号-句点	_	4	punct	_	Reading=?
+
+# sent_id = prova.03.03.2026_3_0
+# text = 日本語全部忘れちゃったけど、チャットを頑張る　ww
+1	日本	日本	PROPN	名詞-固有名詞-地名-国	_	4	compound	_	Reading=ニホン
+2	語	語	NOUN	名詞-普通名詞-一般	_	4	obl	_	Reading=ゴ
+3	全部	全部	ADV	名詞-普通名詞-副詞可能	_	4	advmod	_	Reading=ゼンブ
+4	忘れ	忘れる	VERB	動詞-非自立可能	_	11	advcl	_	Inflection=下一段-ラ行;連用形-一般|Reading=ワスレ
+5	ちゃっ	ちゃう	AUX	助動詞	_	4	aux	_	Inflection=五段-ワア行;連用形-促音便|Reading=チャッ
+6	た	た	AUX	助動詞	_	4	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+7	けど	けど	SCONJ	助詞-接続助詞	_	4	mark	_	Reading=ケド
+8	、	、	PUNCT	補助記号-読点	_	4	punct	_	Reading=、
+9	チャット	チャット	NOUN	名詞-普通名詞-サ変可能	_	11	obj	_	Reading=チャット
+10	を	を	ADP	助詞-格助詞	_	9	case	_	Reading=ヲ
+11	頑張る	頑張る	VERB	動詞-一般	_	13	acl	_	Inflection=五段-ラ行;終止形-一般|Reading=ガンバル
+12	　	　	SPACE	SPACE	_	13	dep	_	_
+13	ww	WW	NOUN	名詞-固有名詞-一般	_	0	root	_	Reading=ww
+
+# sent_id = prova.03.03.2026_4_0
+# text = 大変忙しかったよ
+1	大変	大変	ADV	副詞	_	2	advmod	_	Reading=タイヘン
+2	忙しかっ	忙しい	ADJ	形容詞-一般	_	0	root	_	Inflection=形容詞;連用形-促音便|Reading=イソガシカッ
+3	た	た	AUX	助動詞	_	2	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+4	よ	よ	PART	助詞-終助詞	_	2	mark	_	Reading=ヨ
+
+# sent_id = prova.03.03.2026_5_0
+# text = フランチェスコはどう？
+1	フランチェスコ	フランチェスコ	PROPN	名詞-固有名詞-人名-一般	_	3	nsubj	_	Reading=フランチェスコ
+2	は	は	ADP	助詞-係助詞	_	1	case	_	Reading=ハ
+3	どう	どう	ADV	副詞	_	0	root	_	Reading=ドウ
+4	？	?	PUNCT	補助記号-句点	_	3	punct	_	Reading=?
+
+# sent_id = prova.03.03.2026_6_0
+# text = うん、お互いに頑張ろうね いい練習になるからｗ
+1	うん	うん	SCONJ	感動詞-一般	_	11	obl	_	Reading=ウン
+2	、	、	PUNCT	補助記号-読点	_	1	punct	_	Reading=、
+3	お	お	NOUN	接頭辞	_	4	compound	_	Reading=オ
+4	互い	互い	NOUN	名詞-普通名詞-一般	_	6	obl	_	Reading=タガイ
+5	に	に	ADP	助詞-格助詞	_	4	case	_	Reading=ニ
+6	頑張ろう	頑張る	VERB	動詞-一般	_	11	advcl	_	Inflection=五段-ラ行;意志推量形|Reading=ガンバロウ
+7	ね	ね	PART	助詞-終助詞	_	6	mark	_	Reading=ネ
+8	いい	いい	ADJ	形容詞-非自立可能	_	6	aux	_	Inflection=形容詞;連体形-一般|Reading=イイ
+9	練習	練習	NOUN	名詞-普通名詞-サ変可能	_	11	obl	_	Reading=レンシュウ
+10	に	に	ADP	助詞-格助詞	_	9	case	_	Reading=ニ
+11	なる	なる	VERB	動詞-非自立可能	_	0	root	_	Inflection=五段-ラ行;終止形-一般|Reading=ナル
+12	から	から	SCONJ	助詞-接続助詞	_	11	mark	_	Reading=カラ
+13	ｗ	W	PUNCT	名詞-普通名詞-助数詞可能	_	11	punct	_	Reading=ワット
+
+# sent_id = prova.03.03.2026_7_0
+# text = フラと呼んでね フランチェスコって長いし💦
+1	フラ	フラ	NOUN	名詞-普通名詞-一般	_	3	obl	_	Reading=フラ
+2	と	と	ADP	助詞-格助詞	_	1	case	_	Reading=ト
+3	呼ん	呼ぶ	VERB	動詞-一般	_	8	advcl	_	Inflection=五段-バ行;連用形-撥音便|Reading=ヨン
+4	で	で	SCONJ	助詞-接続助詞	_	3	mark	_	Reading=デ
+5	ね	ね	PART	助詞-終助詞	_	3	mark	_	Reading=ネ
+6	フランチェスコ	フランチェスコ	PROPN	名詞-固有名詞-人名-一般	_	8	obl	_	Reading=フランチェスコ
+7	って	って	ADP	助詞-副助詞	_	6	case	_	Reading=ッテ
+8	長い	長い	ADJ	形容詞-一般	_	0	root	_	Inflection=形容詞;終止形-一般|Reading=ナガイ
+9	し	し	SCONJ	助詞-接続助詞	_	8	mark	_	Reading=シ
+10	💦	💦	PUNCT	補助記号-一般	_	8	punct	_	Reading=💦
+
+# sent_id = prova.03.03.2026_8_0
+# text = 僕も結構忙しいよ
+1	僕	僕	PRON	代名詞	_	4	nsubj	_	Reading=ボク
+2	も	も	ADP	助詞-係助詞	_	1	case	_	Reading=モ
+3	結構	結構	ADV	副詞	_	4	advmod	_	Reading=ケッコウ
+4	忙しい	忙しい	ADJ	形容詞-一般	_	0	root	_	Inflection=形容詞;終止形-一般|Reading=イソガシイ
+5	よ	よ	PART	助詞-終助詞	_	4	mark	_	Reading=ヨ
+
+# sent_id = prova.03.03.2026_9_0
+# text = 卒業スピーチの準備しないと
+1	卒業	卒業	NOUN	名詞-普通名詞-サ変可能	_	2	compound	_	Reading=ソツギョウ
+2	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	4	nmod	_	Reading=スピーチ
+3	の	の	ADP	助詞-格助詞	_	2	case	_	Reading=ノ
+4	準備	準備	VERB	名詞-普通名詞-サ変可能	_	0	root	_	Reading=ジュンビ
+5	し	する	AUX	動詞-非自立可能	_	4	aux	_	Inflection=サ行変格;未然形-一般|Reading=シ
+6	ない	ない	AUX	助動詞	_	4	aux	_	Inflection=助動詞-ナイ;終止形-一般|Polarity=Neg|Reading=ナイ
+7	と	と	ADP	助詞-格助詞	_	4	case	_	Reading=ト
+
+# sent_id = prova.03.03.2026_10_0
+# text = LINEのチャットはちょっと懐かしいね 留学の時はもう3年ぶりだよ😭
+1	LINE	LINE	NOUN	名詞-固有名詞-一般	_	3	nmod	_	Reading=ライン
+2	の	の	ADP	助詞-格助詞	_	1	case	_	Reading=ノ
+3	チャット	チャット	NOUN	名詞-普通名詞-サ変可能	_	6	nsubj	_	Reading=チャット
+4	は	は	ADP	助詞-係助詞	_	3	case	_	Reading=ハ
+5	ちょっと	ちょっと	ADV	副詞	_	6	advmod	_	Reading=チョット
+6	懐かしい	懐かしい	ADJ	形容詞-一般	_	15	acl	_	Inflection=形容詞;終止形-一般|Reading=ナツカシイ
+7	ね	ね	PART	助詞-終助詞	_	6	mark	_	Reading=ネ
+8	留学	留学	NOUN	名詞-普通名詞-サ変可能	_	10	nmod	_	Reading=リュウガク
+9	の	の	ADP	助詞-格助詞	_	8	case	_	Reading=ノ
+10	時	時	NOUN	名詞-普通名詞-副詞可能	_	15	obl	_	Reading=トキ
+11	は	は	ADP	助詞-係助詞	_	10	case	_	Reading=ハ
+12	もう	もう	ADV	副詞	_	15	advmod	_	Reading=モウ
+13	3	3	NUM	名詞-数詞	_	15	compound	_	Reading=サン
+14	年	年	NOUN	名詞-普通名詞-助数詞可能	_	15	compound	_	Reading=ネン
+15	ぶり	ぶり	NOUN	接尾辞-名詞的-一般	_	0	root	_	Reading=ブリ
+16	だ	だ	AUX	助動詞	_	15	cop	_	Inflection=助動詞-ダ;終止形-一般|Reading=ダ
+17	よ	よ	PART	助詞-終助詞	_	15	mark	_	Reading=ヨ
+18	😭	😭	PUNCT	補助記号-一般	_	15	punct	_	Reading=😭
+
+# sent_id = prova.03.03.2026_11_0
+# text = 時間ってあっという間だね
+1	時間	時間	NOUN	名詞-普通名詞-助数詞可能	_	6	obl	_	Reading=ジカン
+2	って	って	ADP	助詞-副助詞	_	1	case	_	Reading=ッテ
+3	あっ	あっ	INTJ	感動詞-一般	_	1	case	_	Reading=アッ
+4	と	と	ADP	助詞-格助詞	_	3	case	_	Reading=ト
+5	いう	いう	VERB	動詞-一般	_	6	acl	_	Inflection=五段-ワア行;連体形-一般|Reading=イウ
+6	間	間	NOUN	名詞-普通名詞-助数詞可能	_	0	root	_	Reading=マ
+7	だ	だ	AUX	助動詞	_	6	cop	_	Inflection=助動詞-ダ;終止形-一般|Reading=ダ
+8	ね	ね	PART	助詞-終助詞	_	6	mark	_	Reading=ネ
+
+# sent_id = prova.03.03.2026_12_0
+# text = フランチは先輩だから、卒業スピーチをどのように準備すればいいか教えてくれない？
+1	フランチ	フランチ	PROPN	名詞-普通名詞-一般	_	3	nsubj	_	Reading=フランチ
+2	は	は	ADP	助詞-係助詞	_	1	case	_	Reading=ハ
+3	先輩	先輩	NOUN	名詞-普通名詞-一般	_	13	advcl	_	Reading=センパイ
+4	だ	だ	AUX	助動詞	_	3	cop	_	Inflection=助動詞-ダ;終止形-一般|Reading=ダ
+5	から	から	SCONJ	助詞-接続助詞	_	3	mark	_	Reading=カラ
+6	、	、	PUNCT	補助記号-読点	_	3	punct	_	Reading=、
+7	卒業	卒業	NOUN	名詞-普通名詞-サ変可能	_	8	compound	_	Reading=ソツギョウ
+8	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	13	obj	_	Reading=スピーチ
+9	を	を	ADP	助詞-格助詞	_	8	case	_	Reading=ヲ
+10	どの	どの	DET	連体詞	_	11	det	_	Reading=ドノ
+11	よう	よう	NOUN	形状詞-助動詞語幹	_	13	advcl	_	Reading=ヨウ
+12	に	だ	AUX	助動詞	_	11	cop	_	Inflection=助動詞-ダ;連用形-ニ|Reading=ニ
+13	準備	準備	VERB	名詞-普通名詞-サ変可能	_	18	advcl	_	Reading=ジュンビ
+14	すれ	する	AUX	動詞-非自立可能	_	13	aux	_	Inflection=サ行変格;仮定形-一般|Reading=スレ
+15	ば	ば	SCONJ	助詞-接続助詞	_	13	mark	_	Reading=バ
+16	いい	いい	AUX	形容詞-非自立可能	_	15	fixed	_	Inflection=形容詞;終止形-一般|Reading=イイ
+17	か	か	PART	助詞-副助詞	_	13	mark	_	Reading=カ
+18	教え	教える	VERB	動詞-一般	_	0	root	_	Inflection=下一段-ア行;連用形-一般|Reading=オシエ
+19	て	て	SCONJ	助詞-接続助詞	_	18	mark	_	Reading=テ
+20	くれ	くれる	VERB	動詞-非自立可能	_	19	fixed	_	Inflection=下一段-ラ行;未然形-一般|Reading=クレ
+21	ない	ない	AUX	助動詞	_	18	aux	_	Inflection=助動詞-ナイ;終止形-一般|Polarity=Neg|Reading=ナイ
+22	？	?	PUNCT	補助記号-句点	_	18	punct	_	Reading=?
+
+# sent_id = prova.03.03.2026_13_0
+# text = 卒業スピーチ、ほんとに大変ですね😭だけど、フランなら大丈夫よ🙆
+1	卒業	卒業	NOUN	名詞-普通名詞-サ変可能	_	2	compound	_	Reading=ソツギョウ
+2	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	6	obl	_	Reading=スピーチ
+3	、	、	PUNCT	補助記号-読点	_	2	punct	_	Reading=、
+4	ほんと	ほんと	ADJ	名詞-普通名詞-一般	_	6	obl	_	Reading=ホント
+5	に	に	ADP	助詞-格助詞	_	4	aux	_	Reading=ニ
+6	大変	大変	ADJ	形状詞-一般	_	15	advcl	_	Reading=タイヘン
+7	です	です	AUX	助動詞	_	6	aux	_	Inflection=助動詞-デス;終止形-一般|Reading=デス
+8	ね	ね	PART	助詞-終助詞	_	6	mark	_	Reading=ネ
+9	😭	😭	AUX	補助記号-一般	_	6	dep	_	Reading=😭
+10	だ	だ	AUX	助動詞	_	6	aux	_	Inflection=助動詞-ダ;終止形-一般|Reading=ダ
+11	けど	けど	SCONJ	助詞-接続助詞	_	6	mark	_	Reading=ケド
+12	、	、	PUNCT	補助記号-読点	_	6	punct	_	Reading=、
+13	フラン	フラン	PROPN	名詞-普通名詞-助数詞可能	_	15	advcl	_	Reading=フラン
+14	なら	だ	AUX	助動詞	_	13	cop	_	Inflection=助動詞-ダ;仮定形-一般|Reading=ナラ
+15	大丈夫	大丈夫	ADJ	形状詞-一般	_	0	root	_	Reading=ダイジョウブ
+16	よ	よ	PART	助詞-終助詞	_	15	mark	_	Reading=ヨ
+17	🙆	🙆	PUNCT	補助記号-一般	_	15	punct	_	Reading=🙆
+
+# sent_id = prova.03.03.2026_14_0
+# text = 先輩だけどスピーチは無理　草
+1	先輩	先輩	NOUN	名詞-普通名詞-一般	_	7	advcl	_	Reading=センパイ
+2	だ	だ	AUX	助動詞	_	1	cop	_	Inflection=助動詞-ダ;終止形-一般|Reading=ダ
+3	けど	けど	SCONJ	助詞-接続助詞	_	1	mark	_	Reading=ケド
+4	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	6	nsubj	_	Reading=スピーチ
+5	は	は	ADP	助詞-係助詞	_	4	case	_	Reading=ハ
+6	無理	無理	ADJ	名詞-普通名詞-形状詞可能	_	7	amod	_	Reading=ムリ
+7	　	　	SPACE	SPACE	_	0	root	_	_
+8	草	草	PUNCT	名詞-普通名詞-一般	_	7	compound	_	Reading=クサ
+
+# sent_id = prova.03.03.2026_15_0
+# text = 私はまずスライドを準備した
+1	私	私	PRON	代名詞	_	6	nsubj	_	Reading=ワタクシ
+2	は	は	ADP	助詞-係助詞	_	1	case	_	Reading=ハ
+3	まず	まず	ADV	副詞	_	6	advmod	_	Reading=マズ
+4	スライド	スライド	NOUN	名詞-普通名詞-サ変可能	_	6	obj	_	Reading=スライド
+5	を	を	ADP	助詞-格助詞	_	4	case	_	Reading=ヲ
+6	準備	準備	VERB	名詞-普通名詞-サ変可能	_	0	root	_	Reading=ジュンビ
+7	し	する	AUX	動詞-非自立可能	_	6	aux	_	Inflection=サ行変格;連用形-一般|Reading=シ
+8	た	た	AUX	助動詞	_	6	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+
+# sent_id = prova.03.03.2026_16_0
+# text = その後スライドを見ながら毎日卒業スピーチの練習した
+1	その	その	DET	連体詞	_	2	det	_	Reading=ソノ
+2	後	後	NOUN	名詞-普通名詞-副詞可能	_	5	obl	_	Reading=アト
+3	スライド	スライド	NOUN	名詞-普通名詞-サ変可能	_	5	obj	_	Reading=スライド
+4	を	を	ADP	助詞-格助詞	_	3	case	_	Reading=ヲ
+5	見	見る	VERB	動詞-非自立可能	_	11	advcl	_	Inflection=上一段-マ行;連用形-一般|Reading=ミ
+6	ながら	ながら	SCONJ	助詞-接続助詞	_	5	mark	_	Reading=ナガラ
+7	毎日	毎日	ADV	名詞-普通名詞-副詞可能	_	11	advmod	_	Reading=マイニチ
+8	卒業	卒業	NOUN	名詞-普通名詞-サ変可能	_	9	compound	_	Reading=ソツギョウ
+9	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	11	nmod	_	Reading=スピーチ
+10	の	の	ADP	助詞-格助詞	_	9	case	_	Reading=ノ
+11	練習	練習	VERB	名詞-普通名詞-サ変可能	_	0	root	_	Reading=レンシュウ
+12	し	する	AUX	動詞-非自立可能	_	11	aux	_	Inflection=サ行変格;連用形-一般|Reading=シ
+13	た	た	PUNCT	助動詞	_	11	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+
+# sent_id = prova.03.03.2026_17_0
+# text = なるほどね 何日くらい練習したの？
+1	なるほど	なるほど	PART	副詞	_	6	advcl	_	Reading=ナルホド
+2	ね	ね	PART	助詞-終助詞	_	1	mark	_	Reading=ネ
+3	何	何	NUM	名詞-数詞	_	4	nummod	_	Reading=ナン
+4	日	日	NOUN	名詞-普通名詞-助数詞可能	_	6	obl	_	Reading=ニチ
+5	くらい	くらい	ADP	助詞-副助詞	_	4	case	_	Reading=クライ
+6	練習	練習	VERB	名詞-普通名詞-サ変可能	_	0	root	_	Reading=レンシュウ
+7	し	する	AUX	動詞-非自立可能	_	6	aux	_	Inflection=サ行変格;連用形-一般|Reading=シ
+8	た	た	AUX	助動詞	_	6	aux	_	Inflection=助動詞-タ;連体形-一般|Reading=タ
+9	の	の	SCONJ	助詞-終助詞	_	6	mark	_	Reading=ノ
+10	？	?	PUNCT	補助記号-句点	_	6	punct	_	Reading=?
+
+# sent_id = prova.03.03.2026_18_0
+# text = ときどき、スピーチをしながらVtuberのアバターも使ったよ　www
+1	ときどき	ときどき	ADV	名詞-普通名詞-副詞可能	_	5	advmod	_	Reading=トキドキ
+2	、	、	PUNCT	補助記号-読点	_	1	punct	_	Reading=、
+3	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	5	obj	_	Reading=スピーチ
+4	を	を	ADP	助詞-格助詞	_	3	case	_	Reading=ヲ
+5	し	する	VERB	動詞-非自立可能	_	11	advcl	_	Inflection=サ行変格;連用形-一般|Reading=シ
+6	ながら	ながら	SCONJ	助詞-接続助詞	_	5	mark	_	Reading=ナガラ
+7	Vtuber	VTuber	NOUN	名詞-普通名詞-一般	_	9	nmod	_	Reading=ブイチューバー
+8	の	の	ADP	助詞-格助詞	_	7	case	_	Reading=ノ
+9	アバター	アバター	NOUN	名詞-普通名詞-一般	_	11	nsubj	_	Reading=アバター
+10	も	も	ADP	助詞-係助詞	_	9	case	_	Reading=モ
+11	使っ	使う	VERB	動詞-一般	_	15	acl	_	Inflection=五段-ワア行;連用形-促音便|Reading=ツカッ
+12	た	た	AUX	助動詞	_	11	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+13	よ	よ	PART	助詞-終助詞	_	11	mark	_	Reading=ヨ
+14	　	　	SPACE	SPACE	_	11	dep	_	_
+15	www	WWW	NOUN	名詞-普通名詞-一般	_	0	root	_	Reading=ダブリューダブリューダブリュー
+
+# sent_id = prova.03.03.2026_19_0
+# text = 2週間ぐらいだったと思う
+1	2	2	NUM	名詞-数詞	_	2	nummod	_	Reading=ニ
+2	週間	週間	NOUN	名詞-普通名詞-助数詞可能	_	7	ccomp	_	Reading=シュウカン
+3	ぐらい	ぐらい	ADP	助詞-副助詞	_	2	case	_	Reading=グライ
+4	だっ	だ	AUX	助動詞	_	2	cop	_	Inflection=助動詞-ダ;連用形-促音便|Reading=ダッ
+5	た	た	AUX	助動詞	_	2	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+6	と	と	ADP	助詞-格助詞	_	2	case	_	Reading=ト
+7	思う	思う	VERB	動詞-一般	_	0	root	_	Inflection=五段-ワア行;終止形-一般|Reading=オモウ
+
+# sent_id = prova.03.03.2026_20_0
+# text = そうなの？
+1	そう	そう	ADV	副詞	_	0	root	_	Reading=ソウ
+2	な	だ	AUX	助動詞	_	1	aux	_	Inflection=助動詞-ダ;連体形-一般|Reading=ナ
+3	の	の	SCONJ	助詞-終助詞	_	1	mark	_	Reading=ノ
+4	？	?	PUNCT	補助記号-句点	_	1	punct	_	Reading=?
+
+# sent_id = prova.03.03.2026_20_1
+# text = 長かったね😭😩 それじゃ、僕も早く始めなきゃ
+5	長かっ	長い	ADJ	形容詞-一般	_	15	advcl	_	Inflection=形容詞;連用形-促音便|Reading=ナガカッ
+6	た	た	AUX	助動詞	_	5	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+7	ね	ね	PART	助詞-終助詞	_	5	mark	_	Reading=ネ
+8	😭😩	😭😩	PROPN	補助記号-一般	_	5	dep	_	Reading=😭😩
+9	それ	それ	PRON	代名詞	_	15	obl	_	Reading=ソレ
+10	じゃ	じゃ	ADP	助詞-格助詞	_	9	fixed	_	Reading=ジャ
+11	、	、	PUNCT	補助記号-読点	_	9	punct	_	Reading=、
+12	僕	僕	PRON	代名詞	_	15	nsubj	_	Reading=ボク
+13	も	も	ADP	助詞-係助詞	_	12	case	_	Reading=モ
+14	早く	早い	ADJ	形容詞-一般	_	15	advcl	_	Inflection=形容詞;連用形-一般|Reading=ハヤク
+15	始め	始める	VERB	動詞-非自立可能	_	0	root	_	Inflection=下一段-マ行;未然形-一般|Reading=ハジメ
+16	なきゃ	ない	AUX	助動詞	_	15	aux	_	Inflection=助動詞-ナイ;仮定形-融合|Polarity=Neg|Reading=ナキャ
+
+# sent_id = prova.03.03.2026_21_0
+# text = 2週間スピーチの練習はちょっとつまらなくなったから
+1	2	2	NUM	名詞-数詞	_	3	compound	_	Reading=ニ
+2	週間	週間	NOUN	名詞-普通名詞-助数詞可能	_	3	compound	_	Reading=シュウカン
+3	スピーチ	スピーチ	NOUN	名詞-普通名詞-サ変可能	_	5	nmod	_	Reading=スピーチ
+4	の	の	ADP	助詞-格助詞	_	3	case	_	Reading=ノ
+5	練習	練習	NOUN	名詞-普通名詞-サ変可能	_	10	nsubj	_	Reading=レンシュウ
+6	は	は	ADP	助詞-係助詞	_	5	case	_	Reading=ハ
+7	ちょっと	ちょっと	ADV	副詞	_	8	advmod	_	Reading=チョット
+8	つまら	つまる	VERB	動詞-一般	_	10	advcl	_	Inflection=五段-ラ行;未然形-一般|Reading=ツマラ
+9	なく	ない	AUX	助動詞	_	8	aux	_	Inflection=助動詞-ナイ;連用形-一般|Polarity=Neg|Reading=ナク
+10	なっ	なる	VERB	動詞-非自立可能	_	0	root	_	Inflection=五段-ラ行;連用形-促音便|Reading=ナッ
+11	た	た	AUX	助動詞	_	10	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+12	から	から	PART	助詞-接続助詞	_	10	mark	_	Reading=カラ
+
+# sent_id = prova.03.03.2026_22_0
+# text = 支援してるよ
+1	支援	支援	VERB	名詞-普通名詞-サ変可能	_	0	root	_	Reading=シエン
+2	し	する	AUX	動詞-非自立可能	_	1	aux	_	Inflection=サ行変格;連用形-一般|Reading=シ
+3	てる	てる	AUX	助動詞	_	1	aux	_	Inflection=下一段-タ行;終止形-一般|Reading=テル
+4	よ	よ	PART	助詞-終助詞	_	1	mark	_	Reading=ヨ
+
+# sent_id = prova.03.03.2026_24_0
+# text = (Cony hope)
+1	(	(	PUNCT	補助記号-括弧開	_	3	punct	_	Reading=キゴウ
+2	Cony	cony	NOUN	名詞-普通名詞-一般	_	3	compound	_	Reading=cony
+3	hope	HOPE	NOUN	名詞-普通名詞-一般	_	0	root	_	Reading=ホープ
+4	)	)	PUNCT	補助記号-括弧閉	_	3	punct	_	Reading=キゴウ
+
+# sent_id = prova.18.03.2026_29_0
+# text = 卒業おめでとう㊗️🎓
+1	卒業	卒業	NOUN	名詞-普通名詞-サ変可能	_	2	compound	_	Reading=ソツギョウ
+2	おめでとう	おめでとう	NOUN	感動詞-一般	_	0	root	_	Reading=オメデトウ
+3	㊗	祝	NOUN	名詞-普通名詞-一般	_	2	dep	_	Reading=祝
+4	️	️	NOUN	補助記号-一般	_	2	dep	_	Reading=️
+5	🎓	🎓	PUNCT	補助記号-一般	_	2	punct	_	Reading=🎓
+
+# sent_id = prova.18.03.2026_30_0
+# text = (ごめん、調査のためのメッセージだった)
+1	(	(	PUNCT	補助記号-括弧開	_	8	punct	_	Reading=キゴウ
+2	ごめん	ごめん	NOUN	名詞-普通名詞-一般	_	6	nmod	_	Reading=ゴメン
+3	、	、	PUNCT	補助記号-読点	_	2	punct	_	Reading=、
+4	調査	調査	NOUN	名詞-普通名詞-サ変可能	_	6	nmod	_	Reading=チョウサ
+5	の	の	ADP	助詞-格助詞	_	4	case	_	Reading=ノ
+6	ため	ため	NOUN	名詞-普通名詞-副詞可能	_	8	nmod	_	Reading=タメ
+7	の	の	ADP	助詞-格助詞	_	6	case	_	Reading=ノ
+8	メッセージ	メッセージ	NOUN	名詞-普通名詞-一般	_	0	root	_	Reading=メッセージ
+9	だっ	だ	AUX	助動詞	_	8	cop	_	Inflection=助動詞-ダ;連用形-促音便|Reading=ダッ
+10	た	た	AUX	助動詞	_	8	aux	_	Inflection=助動詞-タ;終止形-一般|Reading=タ
+11	)	)	PUNCT	補助記号-括弧閉	_	8	punct	_	Reading=キゴウ
+
+# sent_id = prova.18.03.2026_31_0
+# text = おはよう こんにちは
+1	おはよう	おはよう	VERB	感動詞-一般	_	0	root	_	Reading=オハヨウ
+2	こんにちは	こんにちは	NOUN	感動詞-一般	_	1	case	_	Reading=コンニチハ
+
+# sent_id = prova.18.03.2026_31_1
+# text = こんばんは  ああああ
+3	こんばんは	こんばんは	NOUN	感動詞-一般	_	4	nsubj	_	Reading=コンバンハ
+4	 	 	SPACE	SPACE	_	0	root	_	_
+5	ああ	ああ	SYM	感動詞-一般	_	4	dep	_	Reading=アア
+6	ああ	ああ	PUNCT	感動詞-一般	_	4	punct	_	Reading=アア
+

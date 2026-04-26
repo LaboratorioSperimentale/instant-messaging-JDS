@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 
 file_name = sys.argv[1]
+## USARE WITH INVECE DI FILEHANLDER?
 file_handler = open(file_name, mode = "r", encoding = "UTF-8")
 
 # IGNORO LE PRIME DUE RIGHE
@@ -15,12 +16,13 @@ all_conversations = []
 new_conversation = []
 
 for line in file_handler:
-	if len(line.strip("\n")) == 0:
+	# TODO Cambiare check di inizio conversazione, se ci sono righe vuote si blocca
+	if re.match(r"^.{1,3}\s\d{2}/\d{2}/\d{4}$", line):
 		## NUOVA CONVERSAZIONE
-		# IPOTESI: non ci sono righe vuote nei messaggi
 		if len(new_conversation) > 0:
 			all_conversations.append(new_conversation)
 		new_conversation = []
+		print(new_conversation)
 
 	else:
 		new_conversation.append(line)
@@ -46,9 +48,9 @@ for conversation in all_conversations:
 		"time": "",
 		"messages": []
 	}
-	# LA RIGA 49 COL FORMATO NUOVO Dà PROBLEMI
-	date = conversation[0].split()[1].strip()  
-	
+	# PROBLEMA : SE C'è MESSAGGIO CON SPAZIO VUOTO E NON TROVA UNA DATA SI BLOCCA
+	date = conversation[0].split()[1].strip()
+
 	interaction_data["date"] = date
 
 	conv_data = conversation[1:]

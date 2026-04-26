@@ -22,7 +22,7 @@ with open(file_input, "r", encoding="utf-8") as f:
 conversazioni = data["interactions"]
 
 ## AGGIUNTO ALTRIMENTI PRODUCEVA UN FILE IN UTF-16 LE CHE NON RISULTAVA LEGGIBILE
-with open("prova_annotation.conllu", "w", encoding="utf-8") as out:
+with open("prova_annotationtrf.conllu", "w", encoding="utf-8") as out:
 	for conv in conversazioni:
 		orig_filename = f"{file_input.stem}.{conv['date'].replace('/','.')}"
 		for message in conv["messages"]:
