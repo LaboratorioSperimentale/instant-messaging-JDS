@@ -42,7 +42,9 @@ with open("prova_annotationtrf.conllu", "w", encoding="utf-8") as out:
 			if message["text"] in tokens_to_skip:
 				continue
 
-			## TODO: gestire spazi speciali
+			## TODO: gestire spazi speciali (sostituire)
+
+			## TODO: Line emoji
 
 			doc = nlp(message["text"])
 
